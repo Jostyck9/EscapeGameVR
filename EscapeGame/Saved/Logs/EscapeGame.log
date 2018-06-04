@@ -650,3 +650,804 @@ MotionControllerPawn_C.ReceiveBeginPlay
 [2018.06.04-08.54.29:542][958]LogSavePackage: Save=97.05ms
 [2018.06.04-08.54.29:543][958]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMap_BuiltData00D67F5A428FA3034A1FEBB6DAAEB17A.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
 [2018.06.04-08.54.29:544][958]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.06.04-08.57.56:387][725]LogEditorViewport: Clicking on Actor (LMB): table_C (table)
+[2018.06.04-08.57.57:445][849]Cmd: DELETE
+[2018.06.04-08.57.57:446][849]Cmd: ACTOR DELETE
+[2018.06.04-08.57.57:446][849]LogEditorActor: Deleted Actor: table_C
+[2018.06.04-08.57.57:460][849]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.06.04-08.57.57:953][908]LogEditorViewport: Clicking on Actor (LMB): table_C (table2)
+[2018.06.04-08.58.05:022][749]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube37)
+[2018.06.04-08.58.07:323][ 20]Cmd: DUPLICATE
+[2018.06.04-08.58.07:323][ 20]Cmd: ACTOR DUPLICATE
+[2018.06.04-08.58.12:938][686]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube37)
+[2018.06.04-08.58.13:850][791]Cmd: DUPLICATE
+[2018.06.04-08.58.13:850][791]Cmd: ACTOR DUPLICATE
+[2018.06.04-08.58.28:386][516]Cmd: DUPLICATE
+[2018.06.04-08.58.28:386][516]Cmd: ACTOR DUPLICATE
+[2018.06.04-08.58.34:119][196]Cmd: DUPLICATE
+[2018.06.04-08.58.34:120][196]Cmd: ACTOR DUPLICATE
+[2018.06.04-08.58.39:857][876]Cmd: DUPLICATE
+[2018.06.04-08.58.39:857][876]Cmd: ACTOR DUPLICATE
+[2018.06.04-08.58.49:390][  6]Cmd: DUPLICATE
+[2018.06.04-08.58.49:390][  6]Cmd: ACTOR DUPLICATE
+[2018.06.04-08.58.57:168][928]Cmd: DUPLICATE
+[2018.06.04-08.58.57:168][928]Cmd: ACTOR DUPLICATE
+[2018.06.04-08.59.01:714][465]Cmd: DUPLICATE
+[2018.06.04-08.59.01:714][465]Cmd: ACTOR DUPLICATE
+[2018.06.04-08.59.07:213][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2018.06.04-08.59.13:887][888]LogSavePackage: Save=76.62ms
+[2018.06.04-08.59.13:887][888]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMap90A8EEAC4E908D73AEA837A85AC2F354.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.06.04-08.59.13:888][888]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.06.04-08.59.14:013][888]LogSavePackage: Save=99.29ms
+[2018.06.04-08.59.14:013][888]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMap_BuiltDataB42AADC54802160793D31D9C8759E7F5.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2018.06.04-08.59.14:014][888]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.06.04-09.01.52:660][222]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.06.04-09.01.52:660][222]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.06.04-09.02.03:379][434]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.06.04-09.02.03:379][434]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.06.04-09.02.10:669][301]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.04-09.05.16:029][215]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.EscapeGame
+[2018.06.04-09.05.16:029][215]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.06.04-09.05.16:029][215]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.17
+[2018.06.04-09.05.16:029][215]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.06.04-09.05.16:029][215]LogTemp: BranchPath = DESKTOP-9FALVM1/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-9FALVM1/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries
+[2018.06.04-09.05.16:055][216]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\$40U000-PABBLBND0K5G\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.06.04-09.05.22:033][711]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.04-09.07.54:761][610]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.EscapeGame
+[2018.06.04-09.07.54:761][610]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.06.04-09.07.54:761][610]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.17
+[2018.06.04-09.07.54:761][610]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.06.04-09.07.54:761][610]LogTemp: BranchPath = DESKTOP-9FALVM1/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-9FALVM1/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries
+[2018.06.04-09.07.54:784][611]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\$40U000-PABBLBND0K5G\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.06.04-09.09.15:853][628]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.016
+[2018.06.04-09.09.15:860][628]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_table_leg] ([1] browsable assets)...
+[2018.06.04-09.09.15:868][628]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_table_leg.Linda_Coffee_Table_table_leg]
+[2018.06.04-09.09.15:868][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_table_leg]
+[2018.06.04-09.09.15:886][628]LogSavePackage: Save=12.32ms
+[2018.06.04-09.09.15:887][628]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Linda_Coffee_Table_table_leg_Auto2644E4E024966FC5DCD8F7D8416F7548D.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_table_leg_Auto2.uasset'
+[2018.06.04-09.09.15:887][628]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_table_leg_Auto2.uasset
+[2018.06.04-09.09.15:887][628]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Models/table] ([1] browsable assets)...
+[2018.06.04-09.09.15:896][628]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/Models/table.table]
+[2018.06.04-09.09.15:896][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Models/table]
+[2018.06.04-09.09.15:920][628]LogSavePackage: Save=18.42ms
+[2018.06.04-09.09.15:920][628]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/table_Auto2E54E7FB6470A68C88B3E80B0C7B47378.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Models/table_Auto2.uasset'
+[2018.06.04-09.09.15:921][628]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Models/table_Auto2.uasset
+[2018.06.04-09.09.15:921][628]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_glass] ([1] browsable assets)...
+[2018.06.04-09.09.15:929][628]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_glass.Linda_Coffee_Table_glass]
+[2018.06.04-09.09.15:929][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_glass]
+[2018.06.04-09.09.15:949][628]LogSavePackage: Save=12.39ms
+[2018.06.04-09.09.15:949][628]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Linda_Coffee_Table_glass_Auto2645780934FE98AA774ADF0BE616EC74C.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_glass_Auto2.uasset'
+[2018.06.04-09.09.15:949][628]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_glass_Auto2.uasset
+[2018.06.04-09.09.15:949][628]LogFileHelpers: Auto-saving content packages took 0.095
+[2018.06.04-09.10.34:476][ 24]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x300)
+[2018.06.04-09.10.36:392][240]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x400)
+[2018.06.04-09.10.37:166][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2018.06.04-09.11.27:660][850]LogEditorTransaction: Undo Add Component
+[2018.06.04-09.11.50:925][ 76]LogMaterial: Missing cached shader map for material M_Bush, compiling. 
+[2018.06.04-09.11.55:851][398]LogMaterial: Missing cached shader map for material M_ColorGrid_LowSpec, compiling. 
+[2018.06.04-09.11.58:256][549]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2018.06.04-09.12.34:507][897]BlueprintLog: New page: Compile Button
+[2018.06.04-09.15.31:846][719]BlueprintLog: New page: Compile Button
+[2018.06.04-09.16.46:801][  4]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.04-09.19.16:203][ 76]LogSavePackage: Save=77.38ms
+[2018.06.04-09.19.16:203][ 76]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMap_Auto34D43A24D41F0BF8D8E3D74B58F5E5DD9.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto3.umap'
+[2018.06.04-09.19.16:204][ 76]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto3.umap
+[2018.06.04-09.19.16:205][ 76]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.108
+[2018.06.04-09.19.16:205][ 76]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.108
+[2018.06.04-09.19.16:213][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Enigme/Button] ([1] browsable assets)...
+[2018.06.04-09.19.16:223][ 76]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/Enigme/Button.Button]
+[2018.06.04-09.19.16:223][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Enigme/Button]
+[2018.06.04-09.19.16:251][ 76]LogSavePackage: Save=27.05ms
+[2018.06.04-09.19.16:252][ 76]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Button_Auto3E4ADEC534E48448DC57EFA9631A77487.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Enigme/Button_Auto3.uasset'
+[2018.06.04-09.19.16:252][ 76]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Enigme/Button_Auto3.uasset
+[2018.06.04-09.19.16:252][ 76]LogFileHelpers: Auto-saving content packages took 0.046
+[2018.06.04-09.22.47:061][316]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.06.04-09.22.47:759][348]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.04-09.23.23:926][652]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.06.04-09.23.25:495][838]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.06.04-09.23.35:950][ 85]LogActorFactory: Actor Factory created SM_Door
+[2018.06.04-09.23.37:143][226]LogActorFactory: Actor Factory created SM_Door
+[2018.06.04-09.23.57:323][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.06.04-09.23.57:376][636]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.06.04-09.23.58:878][813]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.06.04-09.24.00:972][ 63]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.06.04-09.24.02:715][269]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.06.04-09.24.04:103][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.06.04-09.24.04:674][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.06.04-09.24.05:047][538]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.06.04-09.24.05:437][582]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.06.04-09.24.05:548][594]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_Door)
+[2018.06.04-09.24.05:791][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.06.04-09.24.05:884][630]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.06.04-09.24.06:140][658]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.06.04-09.24.28:757][341]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.06.04-09.24.58:016][392]LogStaticMesh: Building static mesh SM_Door...
+[2018.06.04-09.24.58:016][392]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.04-09.24.58:024][392]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Door.SM_Door
+[2018.06.04-09.25.09:741][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2018.06.04-09.25.09:760][594]LogSavePackage: Save=12.76ms
+[2018.06.04-09.25.09:760][594]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/SM_Door7E513DFE48C96E91CA13AEB7452F782A.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/StarterContent/Props/SM_Door.uasset'
+[2018.06.04-09.25.09:762][594]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/StarterContent/Props/SM_Door.uasset
+[2018.06.04-09.25.27:011][570]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.SM_Door_10.StaticMeshComponent0) Component already registered.
+[2018.06.04-09.25.34:171][428]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.SM_Door_10.StaticMeshComponent0) Component already registered.
+[2018.06.04-09.25.42:904][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.06.04-09.26.31:723][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.06.04-09.26.35:255][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.06.04-09.26.59:569][615]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x301)
+[2018.06.04-09.27.00:378][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.06.04-09.27.11:961][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.06.04-09.27.58:932][695]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0007 seconds. Added 15 classes and 2 folders.
+[2018.06.04-09.27.58:943][695]LogInit: Transaction tracking system initialized
+[2018.06.04-09.27.58:944][695]EditorErrors: New page: Matinee Initialization
+[2018.06.04-09.30.32:007][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2018.06.04-09.33.56:628][116]LogEditorTransaction: Undo Move Loop Start Marker
+[2018.06.04-09.33.57:692][235]LogEditorTransaction: Undo Move Loop Start Marker
+[2018.06.04-09.33.58:227][295]LogEditorTransaction: Undo Move Loop Start Marker
+[2018.06.04-09.33.59:289][413]LogEditorTransaction: Undo Add Key
+[2018.06.04-09.33.59:934][484]LogEditorTransaction: Undo NewTrack
+[2018.06.04-09.34.00:061][498]LogEditorTransaction: Undo New Group
+[2018.06.04-09.34.37:510][490]LogEditorTransaction: Undo Move Loop End Marker
+[2018.06.04-09.38.20:064][488]LogExit: Transaction tracking system shut down
+[2018.06.04-09.38.20:158][488]LogSavePackage: Save=82.36ms
+[2018.06.04-09.38.20:158][488]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMap_Auto4E90638D148083B8327343E85F03D9790.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto4.umap'
+[2018.06.04-09.38.20:158][488]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto4.umap
+[2018.06.04-09.38.20:160][488]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.111
+[2018.06.04-09.38.20:160][488]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.111
+[2018.06.04-09.40.21:098][283]BlueprintLog: New page: Compile MotionControllerMap
+[2018.06.04-09.40.26:811][938]LogTemp: Repeating last play command: VR Preview
+[2018.06.04-09.40.26:830][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.40.26:830][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.04-09.40.26:830][938]PIE: New page: PIE session: MotionControllerMap (Jun 4, 2018, 1:40:26 PM)
+[2018.06.04-09.40.26:830][938]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.06.04-09.40.26:836][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005587s)
+[2018.06.04-09.40.26:836][938]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.06.04-09.40.26:837][938]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.06.04-09.40.26:837][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006486s)
+[2018.06.04-09.40.26:859][938]LogInit: XAudio2 using 'Haut-parleurs (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.04-09.40.26:867][938]LogInit: FAudioDevice initialized.
+[2018.06.04-09.40.26:944][938]LogLoad: Game class is 'GameMode'
+[2018.06.04-09.40.26:946][938]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.06.04-11.40.26
+[2018.06.04-09.40.26:946][938]LogWorld: Bringing up level for play took: 0.002033
+[2018.06.04-09.40.26:947][938]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.40.26:947][938]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.40.26:947][938]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.40.26:948][938]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.40.26:948][938]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.40.26:948][938]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.40.26:948][938]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.40.26:948][938]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan(ind) Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.40.26:949][938]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.40.26:949][938]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.40.26:949][938]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.40.26:949][938]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.40.26:949][938]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan(ind) Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.40.26:949][938]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.40.26:954][938]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.25
+[2018.06.04-09.40.26:955][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.40.36:334][775]LogSteamVRController: Controller role for device 3 is 0 (invalid=0, left=1, right=2).
+[2018.06.04-09.40.36:334][775]LogSteamVRController: Warning: Controller device 3 has no role set.  There is no 'right' controller according to steamvr, so we are pickign that.
+[2018.06.04-09.41.44:790][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.41.44:941][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.41.46:479][ 67]LogSavePackage: Save=95.32ms
+[2018.06.04-09.41.46:479][ 67]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMapB842929D4DEA4910EBFE50AB57DE1B04.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.06.04-09.41.46:484][ 67]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.06.04-09.41.46:614][ 67]LogSavePackage: Save=98.97ms
+[2018.06.04-09.41.46:614][ 67]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMap_BuiltData53EB356A4D768AD705882EBF4162192F.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2018.06.04-09.41.46:615][ 67]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.06.04-09.42.40:682][484]MapCheck: New page: Map Check
+[2018.06.04-09.42.40:693][484]Cmd: MAP REBUILD ALLVISIBLE
+[2018.06.04-09.42.40:694][484]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.06.04-09.42.40:820][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.06.04-09.42.40:824][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2018.06.04-09.42.40:829][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_BaseMaterial2, compiling. 
+[2018.06.04-09.42.40:834][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.06.04-09.42.40:839][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.06.04-09.42.40:844][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.06.04-09.42.40:849][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Hex_Tile, compiling. 
+[2018.06.04-09.42.40:856][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy map_biblio_Mat, compiling. 
+[2018.06.04-09.42.40:863][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.06.04-09.42.40:870][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_StatueGlass, compiling. 
+[2018.06.04-09.42.40:877][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.06.04-09.42.40:883][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Pine, compiling. 
+[2018.06.04-09.42.40:889][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.06.04-09.42.40:895][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2018.06.04-09.42.40:901][484]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.06.04-09.42.41:740][484]TextureStreamingBuild: Display: Compiling optional shaders took 0.925 seconds.
+[2018.06.04-09.42.41:756][484]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2018.06.04-09.42.41:767][484]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2018.06.04-09.42.41:779][484]LightingResults: New page: Lighting Build - Jun 4, 2018, 1:42:41 PM
+[2018.06.04-09.42.41:786][484]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.06.04-09.42.41:787][484]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.06.04-09.42.41:787][484]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.06.04-09.42.41:788][484]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.06.04-09.42.41:788][484]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11816
+[2018.06.04-09.42.46:322][484]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.06.04-09.42.46:323][484]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.06.04-09.42.46:323][484]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.06.04-09.42.46:323][484]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.06.04-09.42.46:323][484]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.06.04-09.42.46:372][484]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.06.04-09.42.46:372][484]MapCheck: New page: MotionControllerMap - Jun 4, 2018, 1:42:46 PM
+[2018.06.04-09.42.46:373][484]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.06.04-09.42.46:429][484]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 56.527ms to complete.
+[2018.06.04-09.42.46:451][484]LogEditorBuildUtils: Build time 0:05
+[2018.06.04-09.42.46:473][484]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2018.06.04-09.42.46:478][484]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2018.06.04-09.42.55:813][266]Job is a success!
+[2018.06.04-09.42.56:413][267]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.06.04-09.42.56:413][267]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.06.04-09.42.56:413][267]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.06.04-09.42.56:413][267]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.06.04-09.42.56:413][267]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.06.04-09.42.56:413][267]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.06.04-09.42.56:522][267]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.06.04-09.42.56:522][267]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 512X256)
+[2018.06.04-09.42.56:522][267]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2018.06.04-09.42.56:543][267]Lightmass on DESKTOP-9FALVM1: 9.27 sec total, 68 ms importing, 4 ms setup, 2.70 sec photons, 6.45 sec processing, 0 ms extra exporting [33/33 mappings]. Threads: 44.9 sec total, 11.3 sec processing.
+[2018.06.04-09.42.56:550][267]LogStaticLightingSystem: Illumination: 14.7 sec (456 ms encoding lightmaps, 105 ms encoding shadowmaps)
+[2018.06.04-09.42.56:550][267]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2018.06.04-09.42.56:550][267]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (0.2 MB streaming, 2.7 MB non-streaming), 3 textures
+[2018.06.04-09.42.57:330][267]DumpUnbuiltLightIteractions
+[2018.06.04-09.42.57:330][267]Lights with unbuilt interactions: 0
+[2018.06.04-09.42.57:330][267]
+[2018.06.04-09.42.57:330][267]Primitives with unbuilt interactions: 0
+[2018.06.04-09.42.57:338][268]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.06.04-09.42.57:338][268]MapCheck: New page: MotionControllerMap - Jun 4, 2018, 1:42:57 PM
+[2018.06.04-09.42.57:407][268]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.704ms to complete.
+[2018.06.04-09.43.04:958][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.06.04-09.43.14:805][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.06.04-09.43.35:548][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.06.04-09.43.36:127][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.06.04-09.43.52:349][765]LogTemp: Repeating last play command: VR Preview
+[2018.06.04-09.43.52:364][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.43.52:364][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.04-09.43.52:365][765]PIE: New page: PIE session: MotionControllerMap (Jun 4, 2018, 1:43:52 PM)
+[2018.06.04-09.43.52:365][765]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.06.04-09.43.52:370][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005298s)
+[2018.06.04-09.43.52:370][765]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.06.04-09.43.52:371][765]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2018.06.04-09.43.52:371][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006224s)
+[2018.06.04-09.43.52:392][765]LogInit: XAudio2 using 'Haut-parleurs (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.04-09.43.52:399][765]LogInit: FAudioDevice initialized.
+[2018.06.04-09.43.52:474][765]LogLoad: Game class is 'GameMode'
+[2018.06.04-09.43.52:476][765]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.06.04-11.43.52
+[2018.06.04-09.43.52:477][765]LogWorld: Bringing up level for play took: 0.002142
+[2018.06.04-09.43.52:477][765]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.43.52:477][765]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.43.52:477][765]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.43.52:478][765]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.43.52:478][765]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.43.52:478][765]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.43.52:478][765]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.43.52:478][765]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.43.52:479][765]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.43.52:479][765]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.43.52:479][765]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.43.52:479][765]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.43.52:479][765]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.43.52:480][765]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.43.52:484][765]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.22
+[2018.06.04-09.43.52:485][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.46.34:159][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.46.34:317][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.46.40:174][923]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_DoorFrame)
+[2018.06.04-09.46.41:624][ 90]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x300)
+[2018.06.04-09.46.43:916][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2018.06.04-09.46.45:589][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2018.06.04-09.46.46:517][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2018.06.04-09.46.50:318][ 99]LogActorFactory: Actor Factory created SM_Door
+[2018.06.04-09.46.52:353][342]LogActorFactory: Actor Factory created SM_Door
+[2018.06.04-09.46.53:052][425]LogActorFactory: Actor Factory created SM_Door
+[2018.06.04-09.46.53:989][530]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.06.04-09.46.57:660][968]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.06.04-09.46.58:044][ 13]LogActorFactory: Actor Factory created SM_DoorFrame
+[2018.06.04-09.46.59:133][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.06.04-09.47.03:051][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.06.04-09.47.10:886][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.06.04-09.47.11:973][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.06.04-09.47.17:395][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.06.04-09.47.22:427][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame2)
+[2018.06.04-09.47.26:268][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame2)
+[2018.06.04-09.47.26:811][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.06.04-09.47.27:630][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.06.04-09.47.41:762][199]LogInit: Transaction tracking system initialized
+[2018.06.04-09.47.41:762][199]EditorErrors: New page: Matinee Initialization
+[2018.06.04-09.48.02:184][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.06.04-09.49.48:637][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.06.04-09.49.52:399][211]Cmd: ACTOR SELECT ALL
+[2018.06.04-09.49.54:939][505]Cmd: TRANSACTION UNDO
+[2018.06.04-09.49.54:939][505]LogEditorTransaction: Undo Select All
+[2018.06.04-09.49.56:493][681]Cmd: TRANSACTION UNDO
+[2018.06.04-09.49.56:493][681]LogEditorTransaction: Undo Move Actors
+[2018.06.04-09.53.24:255][450]BlueprintLog: New page: Compile MotionControllerMap
+[2018.06.04-09.53.24:278][450]LogExit: Transaction tracking system shut down
+[2018.06.04-09.53.27:341][798]LogTemp: Repeating last play command: VR Preview
+[2018.06.04-09.53.27:355][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.53.27:355][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.04-09.53.27:356][798]PIE: New page: PIE session: MotionControllerMap (Jun 4, 2018, 1:53:27 PM)
+[2018.06.04-09.53.27:356][798]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.06.04-09.53.27:362][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006053s)
+[2018.06.04-09.53.27:362][798]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.06.04-09.53.27:363][798]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2018.06.04-09.53.27:363][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007015s)
+[2018.06.04-09.53.27:385][798]LogInit: XAudio2 using 'Haut-parleurs (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.04-09.53.27:393][798]LogInit: FAudioDevice initialized.
+[2018.06.04-09.53.27:468][798]LogLoad: Game class is 'GameMode'
+[2018.06.04-09.53.27:471][798]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.06.04-11.53.27
+[2018.06.04-09.53.27:472][798]LogWorld: Bringing up level for play took: 0.002077
+[2018.06.04-09.53.27:472][798]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.53.27:472][798]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.53.27:472][798]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.53.27:473][798]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.53.27:473][798]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.53.27:473][798]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.53.27:473][798]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.53.27:473][798]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.53.27:474][798]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.53.27:474][798]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.53.27:474][798]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.53.27:474][798]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.53.27:474][798]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.53.27:474][798]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.53.27:479][798]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.774
+[2018.06.04-09.53.27:479][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.54.35:575][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.54.35:722][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.54.46:636][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2018.06.04-09.55.04:969][ 95]BlueprintLog: New page: Compile MotionControllerMap
+[2018.06.04-09.55.07:325][345]LogTemp: Repeating last play command: VR Preview
+[2018.06.04-09.55.07:339][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.55.07:339][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.04-09.55.07:339][345]PIE: New page: PIE session: MotionControllerMap (Jun 4, 2018, 1:55:07 PM)
+[2018.06.04-09.55.07:339][345]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.06.04-09.55.07:345][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005794s)
+[2018.06.04-09.55.07:346][345]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.06.04-09.55.07:346][345]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2018.06.04-09.55.07:346][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006644s)
+[2018.06.04-09.55.07:368][345]LogInit: XAudio2 using 'Haut-parleurs (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.04-09.55.07:375][345]LogInit: FAudioDevice initialized.
+[2018.06.04-09.55.07:452][345]LogLoad: Game class is 'GameMode'
+[2018.06.04-09.55.07:455][345]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.06.04-11.55.07
+[2018.06.04-09.55.07:455][345]LogWorld: Bringing up level for play took: 0.001947
+[2018.06.04-09.55.07:455][345]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.55.07:455][345]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.55.07:455][345]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.55.07:457][345]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.55.07:457][345]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.55.07:457][345]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.55.07:457][345]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.55.07:457][345]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.55.07:458][345]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.55.07:458][345]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.55.07:458][345]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.55.07:458][345]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.55.07:458][345]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.55.07:458][345]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.55.07:462][345]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.758
+[2018.06.04-09.55.07:462][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.56.47:157][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.56.47:317][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.57.45:374][625]LogEditorViewport: Clicking on Actor (LMB): table_C (table2)
+[2018.06.04-09.57.54:083][661]LogTemp: Repeating last play command: VR Preview
+[2018.06.04-09.57.54:097][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.57.54:097][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.04-09.57.54:098][661]PIE: New page: PIE session: MotionControllerMap (Jun 4, 2018, 1:57:54 PM)
+[2018.06.04-09.57.54:098][661]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.06.04-09.57.54:104][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005920s)
+[2018.06.04-09.57.54:104][661]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.06.04-09.57.54:104][661]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2018.06.04-09.57.54:104][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006776s)
+[2018.06.04-09.57.54:126][661]LogInit: XAudio2 using 'Haut-parleurs (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.04-09.57.54:133][661]LogInit: FAudioDevice initialized.
+[2018.06.04-09.57.54:209][661]LogLoad: Game class is 'GameMode'
+[2018.06.04-09.57.54:212][661]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.06.04-11.57.54
+[2018.06.04-09.57.54:212][661]LogWorld: Bringing up level for play took: 0.001979
+[2018.06.04-09.57.54:213][661]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.57.54:213][661]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.57.54:213][661]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.57.54:214][661]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.57.54:214][661]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.57.54:214][661]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.57.54:214][661]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.57.54:214][661]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.57.54:215][661]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.57.54:215][661]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.57.54:215][661]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.57.54:215][661]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.57.54:215][661]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.57.54:215][661]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.57.54:220][661]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.485
+[2018.06.04-09.57.54:220][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.57.58:430][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.57.58:597][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.58.01:624][275]LogTemp: Repeating last play command: VR Preview
+[2018.06.04-09.58.01:637][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.58.01:637][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.04-09.58.01:637][275]PIE: New page: PIE session: MotionControllerMap (Jun 4, 2018, 1:58:01 PM)
+[2018.06.04-09.58.01:637][275]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.06.04-09.58.01:643][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005743s)
+[2018.06.04-09.58.01:644][275]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.06.04-09.58.01:644][275]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2018.06.04-09.58.01:644][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006595s)
+[2018.06.04-09.58.01:665][275]LogInit: XAudio2 using 'Haut-parleurs (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.04-09.58.01:672][275]LogInit: FAudioDevice initialized.
+[2018.06.04-09.58.01:743][275]LogLoad: Game class is 'GameMode'
+[2018.06.04-09.58.01:745][275]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.06.04-11.58.01
+[2018.06.04-09.58.01:746][275]LogWorld: Bringing up level for play took: 0.001931
+[2018.06.04-09.58.01:746][275]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.58.01:746][275]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-09.58.01:746][275]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.58.01:747][275]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.58.01:747][275]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.58.01:747][275]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.58.01:747][275]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.58.01:747][275]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.58.01:748][275]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.58.01:748][275]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.58.01:748][275]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.58.01:748][275]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-09.58.01:748][275]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-09.58.01:748][275]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-09.58.01:752][275]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.048
+[2018.06.04-09.58.01:753][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.58.07:302][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.58.07:445][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-09.58.08:545][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.06.04-10.00.41:016][111]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.04-10.00.41:926][211]LogEditorViewport: Clicking on Actor (LMB): table_C (table2)
+[2018.06.04-10.01.09:725][894]BlueprintLog: New page: Compile table
+[2018.06.04-10.01.11:778][ 82]LogTemp: Repeating last play command: VR Preview
+[2018.06.04-10.01.11:797][ 82]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-10.01.11:797][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.04-10.01.11:797][ 82]PIE: New page: PIE session: MotionControllerMap (Jun 4, 2018, 2:01:11 PM)
+[2018.06.04-10.01.11:797][ 82]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.06.04-10.01.11:803][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006045s)
+[2018.06.04-10.01.11:803][ 82]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.06.04-10.01.11:803][ 82]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.06.04-10.01.11:803][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006991s)
+[2018.06.04-10.01.11:825][ 82]LogInit: XAudio2 using 'Haut-parleurs (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.04-10.01.11:833][ 82]LogInit: FAudioDevice initialized.
+[2018.06.04-10.01.11:912][ 82]LogLoad: Game class is 'GameMode'
+[2018.06.04-10.01.11:915][ 82]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.06.04-12.01.11
+[2018.06.04-10.01.11:915][ 82]LogWorld: Bringing up level for play took: 0.002038
+[2018.06.04-10.01.11:915][ 82]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-10.01.11:915][ 82]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.06.04-10.01.11:915][ 82]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-10.01.11:917][ 82]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-10.01.11:917][ 82]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-10.01.11:917][ 82]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-10.01.11:917][ 82]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-10.01.11:917][ 82]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-10.01.11:917][ 82]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-10.01.11:918][ 82]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-10.01.11:918][ 82]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-10.01.11:918][ 82]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.06.04-10.01.11:918][ 82]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.06.04-10.01.11:918][ 82]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.06.04-10.01.11:922][ 82]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.782
+[2018.06.04-10.01.11:923][ 82]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-10.02.17:856][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-10.02.18:001][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.04-10.02.55:389][414]LogSavePackage: Save=122.39ms
+[2018.06.04-10.02.55:389][414]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMap5E8E8D364B085E210569988ADD23FD03.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.06.04-10.02.55:390][414]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.06.04-10.02.55:543][414]LogSavePackage: Save=121.80ms
+[2018.06.04-10.02.55:543][414]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMap_BuiltDataACBB0E714E11EA2F8AC2629682BD63DE.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2018.06.04-10.02.55:544][414]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.06.04-10.03.05:155][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2018.06.04-10.03.06:293][691]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.06.04-10.03.08:284][909]LogSavePackage: Save=122.70ms
+[2018.06.04-10.03.08:285][909]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMap881DFB3A407555DF32D342ABDC128727.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.06.04-10.03.08:285][909]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.06.04-10.03.08:430][909]LogSavePackage: Save=119.14ms
+[2018.06.04-10.03.08:430][909]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/MotionControllerMap_BuiltData99D8171D491285E1B339C5B889E8AB37.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2018.06.04-10.03.08:431][909]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.06.04-10.03.13:272][186]LogSavePackage: Save=27.05ms
+[2018.06.04-10.03.13:272][186]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Button351B5C0D4276C9DD6BA72CAD0C35B130.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Blueprints/Enigme/Button.uasset'
+[2018.06.04-10.03.13:273][186]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Blueprints/Enigme/Button.uasset
+[2018.06.04-10.03.13:288][186]LogSavePackage: Save=5.72ms
+[2018.06.04-10.03.13:289][186]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Linda_Coffee_Table_glass1302E2F647AAA4B9D382FB81C4541FE2.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_glass.uasset'
+[2018.06.04-10.03.13:294][186]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_glass.uasset
+[2018.06.04-10.03.13:308][186]LogSavePackage: Save=5.09ms
+[2018.06.04-10.03.13:308][186]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Linda_Coffee_Table_table_leg4B361ECA4A1C4A61282C9DB48AA57346.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_table_leg.uasset'
+[2018.06.04-10.03.13:311][186]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Blueprints/Models/Linda_Coffee_Table_table_leg.uasset
+[2018.06.04-10.03.13:325][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/Models/table" FILE="E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Blueprints/Models/table.uasset" SILENT=true
+[2018.06.04-10.03.13:351][186]LogSavePackage: Save=19.26ms
+[2018.06.04-10.03.13:351][186]LogSavePackage: Moving 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/table852591B84E5B92A7531ECD95AA163FEF.tmp' to 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Blueprints/Models/table.uasset'
+[2018.06.04-10.03.13:352][186]LogSavePackage: Display: Finished SavePackage E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/VirtualRealityBP/Blueprints/Models/table.uasset
+[2018.06.04-10.03.13:589][187]Cmd: QUIT_EDITOR
+[2018.06.04-10.03.14:094][187]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.04-10.03.14:107][187]LogExit: Preparing to exit.
+[2018.06.04-10.03.14:696][187]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2018.06.04-10.03.14:696][187]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2018.06.04-10.03.14:696][187]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2018.06.04-10.03.14:732][187]LogExit: Editor shut down
+[2018.06.04-10.03.14:740][187]LogExit: Transaction tracking system shut down
+[2018.06.04-10.03.14:887][187]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.04-10.03.14:888][187]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/' was aborted.
+[2018.06.04-10.03.14:888][187]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.04-10.03.14:888][187]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.04-10.03.14:888][187]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.04-10.03.14:987][187]LogExit: Object subsystem successfully closed.
+[2018.06.04-10.03.15:013][187]LogD3D11RHI: Shutdown
+[2018.06.04-10.03.15:014][187]LogD3D11RHI: CleanupD3DDevice
+[2018.06.04-10.03.15:017][187]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.04-10.03.15:037][187]LogModuleManager: Shutting down and abandoning module DistCurveEditor (548)
+[2018.06.04-10.03.15:037][187]LogModuleManager: Shutting down and abandoning module Matinee (546)
+[2018.06.04-10.03.15:037][187]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (544)
+[2018.06.04-10.03.15:037][187]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (542)
+[2018.06.04-10.03.15:038][187]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (540)
+[2018.06.04-10.03.15:038][187]LogModuleManager: Shutting down and abandoning module MaterialEditor (538)
+[2018.06.04-10.03.15:038][187]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (536)
+[2018.06.04-10.03.15:038][187]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2018.06.04-10.03.15:038][187]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2018.06.04-10.03.15:038][187]LogModuleManager: Shutting down and abandoning module StatsViewer (530)
+[2018.06.04-10.03.15:038][187]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (528)
+[2018.06.04-10.03.15:038][187]LogModuleManager: Shutting down and abandoning module SceneOutliner (526)
+[2018.06.04-10.03.15:038][187]LogModuleManager: Shutting down and abandoning module AddContentDialog (524)
+[2018.06.04-10.03.15:038][187]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.06.04-10.03.15:039][187]LogModuleManager: Shutting down and abandoning module WidgetCarousel (523)
+[2018.06.04-10.03.15:039][187]LogModuleManager: Shutting down and abandoning module EditorWidgets (520)
+[2018.06.04-10.03.15:039][187]LogModuleManager: Shutting down and abandoning module CollectionManager (518)
+[2018.06.04-10.03.15:039][187]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/Collections/' was aborted.
+[2018.06.04-10.03.15:039][187]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Content/Developers/40U000PABBLBND0K5G/Collections/' was aborted.
+[2018.06.04-10.03.15:039][187]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Bibli_VR/EscapeGameVR/EscapeGame/Saved/Collections/' was aborted.
+[2018.06.04-10.03.15:039][187]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.06.04-10.03.15:039][187]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.06.04-10.03.15:040][187]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.06.04-10.03.15:041][187]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.06.04-10.03.15:042][187]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.06.04-10.03.15:042][187]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.06.04-10.03.15:042][187]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.06.04-10.03.15:043][187]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.06.04-10.03.15:043][187]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.06.04-10.03.15:043][187]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.06.04-10.03.15:043][187]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.06.04-10.03.16:041][187]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.06.04-10.03.16:041][187]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.06.04-10.03.16:041][187]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.06.04-10.03.16:041][187]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.06.04-10.03.16:042][187]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.06.04-10.03.16:042][187]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.06.04-10.03.16:042][187]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.06.04-10.03.16:042][187]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.06.04-10.03.16:042][187]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.06.04-10.03.16:043][187]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.06.04-10.03.16:044][187]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.06.04-10.03.16:044][187]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.06.04-10.03.16:098][187]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.06.04-10.03.16:098][187]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.06.04-10.03.16:099][187]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.06.04-10.03.16:101][187]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.06.04-10.03.16:101][187]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.06.04-10.03.16:101][187]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.06.04-10.03.16:101][187]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.06.04-10.03.16:102][187]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.06.04-10.03.16:102][187]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.06.04-10.03.16:102][187]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.06.04-10.03.16:108][187]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.06.04-10.03.16:109][187]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.06.04-10.03.16:109][187]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.06.04-10.03.16:109][187]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.06.04-10.03.16:110][187]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.06.04-10.03.16:110][187]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.06.04-10.03.16:110][187]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.06.04-10.03.16:110][187]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.06.04-10.03.16:110][187]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.06.04-10.03.16:110][187]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.06.04-10.03.16:110][187]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.06.04-10.03.16:111][187]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.06.04-10.03.16:111][187]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.06.04-10.03.16:111][187]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.06.04-10.03.16:111][187]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.06.04-10.03.16:111][187]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.06.04-10.03.16:111][187]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.06.04-10.03.16:111][187]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.06.04-10.03.16:111][187]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.06.04-10.03.16:111][187]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.06.04-10.03.16:111][187]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.06.04-10.03.16:240][187]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.06.04-10.03.16:241][187]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.06.04-10.03.16:241][187]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.06.04-10.03.16:241][187]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.06.04-10.03.16:241][187]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.06.04-10.03.16:241][187]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.06.04-10.03.16:241][187]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.06.04-10.03.16:241][187]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.06.04-10.03.16:241][187]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.06.04-10.03.16:241][187]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.06.04-10.03.16:241][187]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.06.04-10.03.16:242][187]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.06.04-10.03.16:242][187]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.06.04-10.03.16:242][187]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.06.04-10.03.16:242][187]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.06.04-10.03.16:242][187]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.06.04-10.03.16:242][187]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.06.04-10.03.16:242][187]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.06.04-10.03.16:242][187]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.06.04-10.03.16:243][187]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.06.04-10.03.16:244][187]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.06.04-10.03.16:345][187]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.06.04-10.03.16:446][187]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.06.04-10.03.16:446][187]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.06.04-10.03.16:446][187]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.06.04-10.03.16:446][187]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.06.04-10.03.16:446][187]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.06.04-10.03.16:446][187]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.06.04-10.03.16:446][187]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.06.04-10.03.16:446][187]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.06.04-10.03.16:447][187]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.06.04-10.03.16:447][187]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.06.04-10.03.16:448][187]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.06.04-10.03.16:448][187]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.06.04-10.03.16:448][187]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.06.04-10.03.16:449][187]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.06.04-10.03.16:449][187]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.06.04-10.03.16:449][187]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.06.04-10.03.16:449][187]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.06.04-10.03.16:449][187]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.06.04-10.03.16:450][187]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.06.04-10.03.16:450][187]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.06.04-10.03.16:451][187]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.06.04-10.03.16:451][187]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.06.04-10.03.16:451][187]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.06.04-10.03.16:451][187]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.06.04-10.03.16:451][187]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.06.04-10.03.16:452][187]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.06.04-10.03.16:453][187]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.06.04-10.03.16:453][187]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.06.04-10.03.16:454][187]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.06.04-10.03.16:454][187]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.06.04-10.03.16:455][187]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.06.04-10.03.16:455][187]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.06.04-10.03.16:455][187]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.06.04-10.03.16:455][187]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.06.04-10.03.16:455][187]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.06.04-10.03.16:455][187]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.06.04-10.03.16:456][187]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.06.04-10.03.16:456][187]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.06.04-10.03.16:456][187]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.06.04-10.03.16:456][187]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.06.04-10.03.16:456][187]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.06.04-10.03.16:456][187]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.06.04-10.03.16:456][187]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.06.04-10.03.16:456][187]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.06.04-10.03.16:456][187]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.06.04-10.03.16:456][187]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.06.04-10.03.16:458][187]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.06.04-10.03.16:527][187]LogDerivedDataCache: Shutdown
+[2018.06.04-10.03.16:527][187]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.06.04-10.03.16:527][187]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.06.04-10.03.16:527][187]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.06.04-10.03.16:528][187]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.06.04-10.03.16:528][187]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.06.04-10.03.16:528][187]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.04-10.03.16:529][187]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.04-10.03.16:530][187]LogOnline: Display: Unloading online subsystem: NULL
+[2018.06.04-10.03.16:530][187]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.04-10.03.16:531][187]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.04-10.03.16:531][187]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.04-10.03.16:531][187]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB385632E-4EB3-CC36-ABBF-22A0880A5C32%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=79cf1e6446ce7a8bf079248aed6029d6%7C80b1eb99918043e1ad767e032d7e7716%7C685c7ad8-6aa5-4730-86c2-940690bde84f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.04-10.03.16:540][187]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.04-10.03.16:540][187]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.04-10.03.16:541][187]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.04-10.03.16:541][187]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.04-10.03.16:541][187]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.04-10.03.16:541][187]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.04-10.03.16:541][187]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.04-10.03.16:541][187]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.04-10.03.16:543][187]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.04-10.03.16:544][187]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.04-10.03.16:544][187]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.04-10.03.16:544][187]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.04-10.03.16:544][187]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.04-10.03.16:544][187]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.04-10.03.16:544][187]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.04-10.03.16:544][187]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.04-10.03.16:544][187]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.04-10.03.16:544][187]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.04-10.03.16:544][187]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.04-10.03.16:547][187]LogExit: Exiting.
+[2018.06.04-10.03.16:558][187]Log file closed, 06/04/18 12:03:16
